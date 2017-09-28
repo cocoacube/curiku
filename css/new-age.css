@@ -253,6 +253,12 @@ section.download .badges .badge-link img {
     font-size: 70px;
   }
 }
+
+section.artee {
+  padding: 150px 0;
+  position: relative;
+}
+
 section.features .section-heading {
   margin-bottom: 100px;
 }
