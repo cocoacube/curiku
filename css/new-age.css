@@ -174,7 +174,6 @@ header .header-content .header-content-inner h1 {
   margin-top: 0;
   margin-bottom: 30px;
   font-size: 30px;
-  color:#000000;
 }
 header .header-content .header-content-inner .list-badges {
   margin-bottom: 25px;
@@ -208,6 +207,7 @@ header .device-container .screen img {
   }
   header .header-content .header-content-inner h1 {
     font-size: 35px;
+    color:#000000;
   }
   header .device-container {
     max-width: none;
